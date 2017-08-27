@@ -2,4 +2,7 @@
     <string name="app_name">Screening Test</string>
     <string name="event">pilih event</string>
     <string name="guest">pilih guest</string>
+    <string name="next">Selesai</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="intro">Sertakan gambar profil Anda\n\t untuk melengkapi profile.</string>
 </resources>

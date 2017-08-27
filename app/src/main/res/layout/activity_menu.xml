@@ -40,11 +40,11 @@
         android:layout_height="wrap_content"
         android:text="@string/event"
         android:textAlignment="center"
-        android:layout_marginTop="19dp"
+        android:layout_marginTop="21dp"
         android:background="#43abd9"
+        android:onClick="openEvent"
         android:layout_below="@+id/textUser"
-        android:layout_alignStart="@+id/textUser"
-        android:onClick="openEvent"/>
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:id="@+id/btnGuest"
